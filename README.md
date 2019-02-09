@@ -1,3 +1,3 @@
-Learning how to build a website
+1. Learning how to build a website
 
-Connecting Terminal, code editor (Atom), and git version control
+2. Connecting Terminal, code editor (Atom), and git version control
