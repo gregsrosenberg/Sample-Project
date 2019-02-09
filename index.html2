@@ -1,0 +1,21 @@
+<meta name="viewport"
+content="width=device-width,
+initial-scale=1.0">
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet"
+  href="css/index.css">
+
+    <h1>Building a Website!</h1>
+
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+
+
+  <body>
+    Placeholder text for HTML
+  </body>
+</html>
