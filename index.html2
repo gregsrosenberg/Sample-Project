@@ -1,21 +1,26 @@
-<meta name="viewport"
-content="width=device-width,
-initial-scale=1.0">
-
 <!DOCTYPE html>
+
 <html>
   <head>
-    <link rel="stylesheet"
-  href="css/index.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" charset="utf-8">
 
-    <h1>Building a Website!</h1>
+    <title>Sample Project</title>
 
-    <meta charset="utf-8">
-    <title></title>
+    <link rel="stylesheet" href="css/index.css">
+
   </head>
 
-
   <body>
-    Placeholder text for HTML
+    <div>
+      <h1>Building a Website!
+      </h1>
+    </div>
+
+    <div>
+      <h2> Placeholder text for HTML
+      </h2>
+    </div>
   </body>
+
+
 </html>
