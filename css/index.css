@@ -1,13 +1,15 @@
 h1 {
-    color: red;
+    color: olive;
     padding: 20px;
     margin: 20px;
+    border: 10px solid grey
+    background-color: grey
 }
 
 h3 {
-    color: black;
+    color: olive;
     border: 10px solid grey;
     margin: 20px;
     padding: 20px;
-    background-color: gold
+    background-color: grey
 }
