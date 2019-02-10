@@ -1,11 +1,13 @@
 h1 {
     color: red;
+    padding: 20px;
+    margin: 20px;
 }
 
 h3 {
-    color: white;
+    color: black;
     border: 10px solid grey;
-    margin: 50px;
-    padding: 50px;
+    margin: 20px;
+    padding: 20px;
     background-color: gold
 }
