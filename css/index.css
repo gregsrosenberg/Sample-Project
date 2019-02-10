@@ -4,7 +4,6 @@ h1 {
     margin: 20px;
     border: 10px solid grey;
     background-color: grey;
-    position: inherit;
 }
 
 h3 {
@@ -16,7 +15,7 @@ h3 {
 }
 
 h5 {
-  margin-left: 80px;
+  margin-left: 300px;
   padding: 20px
   border: light grey
 }
