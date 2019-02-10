@@ -2,8 +2,8 @@ h1 {
     color: olive;
     padding: 20px;
     margin: 20px;
-    border: 10px solid grey
-    background-color: grey
+    border: 10px solid grey;
+    background-color: grey;
 }
 
 h3 {
@@ -11,9 +11,9 @@ h3 {
     border: 10px solid grey;
     margin: 20px;
     padding: 20px;
-    background-color: grey
+    background-color: grey;
 }
 
 h5 {
-  margin-right: 20px
+  margin-right: 20px;
 }
